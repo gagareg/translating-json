@@ -1,0 +1,23 @@
+[	
+    {	
+      "replicas": 1, 	
+      "version": "26.0.0", 	
+      "env": "test", 	
+      "service": "view", 	
+      "jobname": "view/AppManage.2"	
+    }, 	
+    {	
+      "replicas": 2, 	
+      "version": "2.0.8", 	
+      "env": "test", 	
+      "service": "preview", 	
+      "jobname": "preview/AppManage.2"	
+    }, 	
+    {	
+      "replicas": 3, 	
+      "version": "1.4.0", 	
+      "env": "test", 	
+      "service": "mainview", 	
+      "jobname": "mainview/AppManage.2"	
+    } 
+]

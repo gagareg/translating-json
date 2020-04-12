@@ -1,0 +1,1 @@
+[{"fullname": "view/AppManage.2/test", "params": {"Action": "$ACTION$", "Service": "view", "Services version": "26.0.0"}}, {"fullname": "preview/AppManage.2/test", "params": {"Action": "$ACTION$", "Service": "preview", "Services version": "2.0.8"}}, {"fullname": "mainview/AppManage.2/test", "params": {"Action": "$ACTION$", "Service": "mainview", "Services version": "1.4.0"}}]
